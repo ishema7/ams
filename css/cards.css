@@ -1,0 +1,129 @@
+.card-containerss
+    {
+      margin-left: 50px;
+      margin-top: -75px;
+    }
+.cards
+  {
+    display: inline-block;
+    color: white;
+    width: 100%;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 5%;
+    /*margin-left: 10%;*/
+    position: relative;
+    box-sizing: border-box;
+
+  }
+.cards-bg-blue
+  {
+    background-color: #2b5886;
+  }
+.cards-bg-green
+  {
+    background-color: #1b6e47;
+  }
+.cards-bg-orange
+  {
+    background-color: #d26f4a;
+  }
+.cards i
+   {
+    font-size: 40px;
+      margin-top: -72px;
+      margin-left: 153px;
+  }
+   .form{
+  background-color: grey;
+  width: 300px;
+  border-radius: 10px;
+  padding: 30px;
+  margin: 69px;
+  margin-left: 12%;
+  padding-bottom: 30px;
+  margin-bottom: 60px;
+  text-align: center;
+  
+}
+label{
+  color: white;
+  text-align: left;
+}
+.input-group {
+  margin: 15px 0px;
+}
+.input-group input{
+  display: block; 
+    width: 100%;
+    height: 23px;
+    border: solid 1px grey;
+    color: grey;
+    border-radius: 15px;
+    text-align: center;
+}
+.log-btn {
+  background-color: #52c54d94;
+    color: white;
+    border: none;
+    padding: 4px 15px;
+    margin: 3px;
+    border-radius: 5px;
+    width: 100%;
+  height: 35px;
+}
+.log-btn:hover {
+  background-color: #10620c94;
+}
+table ,th ,td {
+      border: 1px solid black;
+      padding: 0px;
+      margin-left: 2%;
+    }
+    /*a{
+      text-decoration: none;
+      text-align: center;
+    }*/
+    button
+    {
+      border: 2px groove black;
+    }
+    tr{
+      padding: 0px;
+      margin: 0px;
+    }
+    .action-btn {
+        color: white;
+        border: none;
+        padding: 5px 25px;
+        margin: 5px 6px;
+    }
+    .delete-btn {
+      background-color: #b04343;
+    }
+    .edit-btn {
+      background-color: #454fa5;
+    }
+    .save-btn{
+        margin-top: 20px;
+        background-color: #454fa5;
+        color: white;
+      }
+      .submit-btn {
+      background-color: #52c54d94;
+        color: white;
+        border: none;
+        padding: 4px 15px;
+        margin: 3px;
+        border-radius: 5px;
+        width: 100%;
+        height: 35px;
+    }
+    .submit-btn:hover {
+      background-color: #10620c94;
+    }
+      .border-end bg-white{
+        background-color: skyblue;
+      }
